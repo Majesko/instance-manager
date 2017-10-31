@@ -1,8 +1,8 @@
 {
-    "name": "majesko/ec2creator",
+    "name": "majesko/instance-manager",
     "authors": [
         {
-            "name": "Василий Борискин",
+            "name": "Vasily Boriskin",
             "email": "majesko@gmail.com"
         }
     ],
