@@ -1,0 +1,25 @@
+{
+    "name": "majesko/ec2creator",
+    "authors": [
+        {
+            "name": "Василий Борискин",
+            "email": "majesko@gmail.com"
+        }
+    ],
+    "require": {
+        "aws/aws-sdk-php": "^3.36"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "InstanceManager\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "InstanceManager\\Tests\\": "tests/"
+        }
+    }
+}
